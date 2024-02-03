@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: pink;
+}
+.header{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.header:hover{
+    color: black;
+}
+.subheading{
+    font-size: medium;
+}
+.list-container{
+    display: inline-block; 
+    text-align: left;
+    font-family:Merriweather;
+}
+     img{
+        max-width: 150px;
+        height: auto;
+     }
+     .second-text,
+.header,
+.subheading{
+color: white;
+}
+.first-paragraph{
+    font-family:Roboto ;
+    color: white;
+}
+.second-text{
+    font-size: 30px;
+}
+.last{
+    font-size: 20px;
+}
